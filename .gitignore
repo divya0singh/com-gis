@@ -1,0 +1,7 @@
+static/data/
+static/voter_list
+media/
+envgis/
+.vscode/
+gis/
+Pipfile/
